@@ -1,0 +1,34 @@
+{
+  "brand": "Northwind Analytics",
+  "domain": "northwind-analytics.example",
+  "category": "B2B analytics software",
+  "keywords": [
+    "best product analytics tool",
+    "top b2b analytics platforms",
+    "product analytics for saas",
+    "self-serve analytics software",
+    "alternatives to legacy bi tools"
+  ],
+  "competitors": [
+    {
+      "name": "Contoso Insights",
+      "domain": "contoso-insights.example"
+    },
+    {
+      "name": "Fabrikam Data",
+      "domain": "fabrikam-data.example"
+    },
+    {
+      "name": "Tailspin Metrics",
+      "domain": "tailspin-metrics.example"
+    },
+    {
+      "name": "Lumen BI",
+      "domain": "lumen-bi.example"
+    },
+    {
+      "name": "Adatum Labs",
+      "domain": "adatum-labs.example"
+    }
+  ]
+}
